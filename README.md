@@ -16,7 +16,7 @@ sudo apt-get install telegram
 exec terminator
 exec-always nm-applet
 
-# Firefox Developer
-sudo add-apt-repository ppa:ubuntu-mozilla-daily/firefox-aurora
-sudo apt-get update
-sudo apt-get install firefox
+# Firefox Developer  
+sudo add-apt-repository ppa:ubuntu-mozilla-daily/firefox-aurora  
+sudo apt-get update  
+sudo apt-get install firefox  
