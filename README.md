@@ -23,3 +23,7 @@ sudo apt-get install firefox
 
 # xz uncompress files.
 unxz my_archive.tar.xz
+
+# xrandr - video settings
+
+xrandr --output HDMI-1
