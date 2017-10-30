@@ -31,3 +31,7 @@ xrandr --output HDMI-1
 
 xrandr —output HDMI-2 —mode 1600x900 —left-of HDMI-1
 phpcs -n —standard=../ruleset.xml —report=summary application/modules/
+
+#phpcbf
+
+phpcbf —standard=PSR2 application/modules/default/controllers
