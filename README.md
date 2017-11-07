@@ -35,3 +35,6 @@ phpcs -n —standard=../ruleset.xml —report=summary application/modules/
 #phpcbf
 
 phpcbf —standard=PSR2 application/modules/default/controllers
+
+#nextcloud 
+sudo add-apt-repository ppa:nextcloud-devs/client
