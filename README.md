@@ -38,3 +38,6 @@ phpcbf —standard=PSR2 application/modules/default/controllers
 
 #nextcloud 
 sudo add-apt-repository ppa:nextcloud-devs/client
+
+#docker 
+sudo gpasswd -a $USER docker
