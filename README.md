@@ -28,16 +28,20 @@ unxz my_archive.tar.xz
 
 xrandr --output HDMI-1
 
+xrandr —output HDMI-2 —mode 1600x900 —left-of HDMI-1  
+phpcs -n —standard=../ruleset.xml —report=summary application/modules/ 
 
-xrandr —output HDMI-2 —mode 1600x900 —left-of HDMI-1
-phpcs -n —standard=../ruleset.xml —report=summary application/modules/
+# phpcbf
 
-#phpcbf
+phpcbf —standard=PSR2 application/modules/default/controllers 
 
-phpcbf —standard=PSR2 application/modules/default/controllers
+# nextcloud 
+sudo add-apt-repository ppa:nextcloud-devs/client  
 
-#nextcloud 
-sudo add-apt-repository ppa:nextcloud-devs/client
-
-#docker 
+# docker 
 sudo gpasswd -a $USER docker
+
+# git
+git add .
+git commit -S -m "texto"
+git push
