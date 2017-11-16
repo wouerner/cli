@@ -45,3 +45,6 @@ sudo gpasswd -a $USER docker
 git add .
 git commit -S -m "texto"
 git push
+
+# GPG import secret key
+gpg --import zzz-secret-gpg.key
