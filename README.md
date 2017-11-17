@@ -4,11 +4,11 @@
 stress -i 8 -c 4 -m 35 -t 20
 
 
-# ADD telegram ubuntu
+# ADD telegram ubuntu   
 
-sudo add-apt-repository ppa:atareao/telegram
-sudo apt-get update
-sudo apt-get install telegram
+sudo add-apt-repository ppa:atareao/telegram  
+sudo apt-get update  
+sudo apt-get install telegram  
 
 
 
