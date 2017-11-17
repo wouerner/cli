@@ -50,6 +50,9 @@ git add .
 git commit -S -m "texto"
 git push
 
+git config --global user.signingkey XXXXXXXXX
+
+
 # GPG import secret key
 gpg --import zzz-secret-gpg.key
 
