@@ -43,8 +43,11 @@ sudo add-apt-repository ppa:nextcloud-devs/client
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"  
 
 # docker 
-sudo gpasswd -a $USER docker
-docker build -t [name_foo] . 
+sudo gpasswd -a $USER docker  
+docker build -t [name_foo] .   
+docker rmi [image_name]  
+docker exec -it [foo] bash  
+docker inspect [foo]   
 
 # git
 git add .
