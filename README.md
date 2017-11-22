@@ -44,6 +44,7 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/mas
 
 # docker 
 sudo gpasswd -a $USER docker
+docker build -t [name_foo] . 
 
 # git
 git add .
