@@ -67,4 +67,5 @@ gpg --import zzz-secret-gpg.key
   plugins=( [plugins...] zsh-syntax-highlighting)  
    source ~/.zshrc
    
-   
+   # Javascript
+npm install -g eslint
