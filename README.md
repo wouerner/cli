@@ -69,3 +69,8 @@ gpg --import zzz-secret-gpg.key
    
    # Javascript
 npm install -g eslint
+
+# ssh + ssh keys    
+ssh-keygen -t rsa -b 4096 -C "your_email@example.com"  
+
+ssh-add  
