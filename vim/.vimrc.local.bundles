@@ -1,0 +1,5 @@
+Plug 'dracula/vim'
+Plug 'w0rp/ale'
+Plug 'Quramy/vim-js-pretty-template'
+Plug 'ryanoasis/vim-devicons'
+"Plug 'jelera/vim-javascript-syntax'
