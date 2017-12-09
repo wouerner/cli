@@ -23,3 +23,4 @@ php + code sniffer
 
 retropie
 htop
+hugo

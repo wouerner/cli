@@ -1,6 +1,9 @@
 set nowrap
 set title
 set cursorline
+set cursorcolumn
+
+hi CursorLineNr   term=bold ctermfg=Yellow gui=bold guifg=Yellow
 
 " Remenber insert color schem in Konsole 
 :colorscheme dracula

@@ -74,3 +74,9 @@ npm install -g eslint
 ssh-keygen -t rsa -b 4096 -C "your_email@example.com"  
 
 ssh-add  
+
+# CPU temperature
+sudo apt-get install lm-sensors 
+sudo sensors-detect
+sensors
+
