@@ -75,6 +75,8 @@ ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
 
 ssh-add  
 
+ssh-add ~/.ssh/ec2.pem > /dev/null 2>&1
+
 # CPU temperature
 sudo apt-get install lm-sensors 
 sudo sensors-detect
