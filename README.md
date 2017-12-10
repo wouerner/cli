@@ -37,6 +37,8 @@ phpcbf —standard=PSR2 application/modules/default/controllers
 
 # nextcloud 
 sudo add-apt-repository ppa:nextcloud-devs/client  
+# screenkey 
+https://github.com/wavexx/screenkey#installation-and-basic-usage 
 
 
 # oh my zsh  
