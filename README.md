@@ -29,6 +29,8 @@ unxz my_archive.tar.xz
 xrandr --output HDMI-1
 
 xrandr —output HDMI-2 —mode 1600x900 —left-of HDMI-1  
+xrandr --output eDP-1-1 --primary 
+
 phpcs -n —standard=../ruleset.xml —report=summary application/modules/ 
 
 # phpcbf
