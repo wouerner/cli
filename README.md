@@ -39,6 +39,8 @@ phpcbf —standard=PSR2 application/modules/default/controllers
 
 # nextcloud 
 sudo add-apt-repository ppa:nextcloud-devs/client  
+# screenkey 
+https://github.com/wavexx/screenkey#installation-and-basic-usage 
 
 
 # oh my zsh  
@@ -76,6 +78,8 @@ npm install -g eslint
 ssh-keygen -t rsa -b 4096 -C "your_email@example.com"  
 
 ssh-add  
+
+ssh-add ~/.ssh/ec2.pem > /dev/null 2>&1
 
 # CPU temperature
 sudo apt-get install lm-sensors 
