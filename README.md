@@ -59,6 +59,7 @@ git commit -S -m "texto"
 git push
 
 git config --global user.signingkey XXXXXXXXX
+git clean -fdx  # remove todos os arquivos não versionados.
 
 
 # GPG import secret key
