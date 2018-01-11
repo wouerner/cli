@@ -24,3 +24,8 @@ php + code sniffer
 retropie
 htop
 hugo
+
+## Tmux
+https://github.com/sei40kr/tmux-airline-dracula  
+https://github.com/tmux-plugins/tpm
+
