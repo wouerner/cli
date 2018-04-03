@@ -57,6 +57,7 @@ docker inspect [foo]
 git add .
 git commit -S -m "texto"
 git push
+git revert -m 1 <commit-hash> 
 
 git config --global user.signingkey XXXXXXXXX
 git clean -fdx  # remove todos os arquivos não versionados.
