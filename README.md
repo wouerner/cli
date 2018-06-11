@@ -88,3 +88,8 @@ sudo apt-get install lm-sensors
 sudo sensors-detect
 sensors
 
+
+# tricks i3wm 
+
+pavucontrol
+nm-applet # network
