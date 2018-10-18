@@ -1,11 +1,16 @@
-git
+## Ubuntu 
+sudo apt update
+sudo apt install 
+git 
 curl
 zsh
     * oh my zsh
 tmux
 firefox 
-vim 8
-	vim bootstrap
+
+- vim 8
+- vim bootstrap
+
 hyper.js + hpm-cli 
 Font: FiraCode + ligatures
 vim devicons
