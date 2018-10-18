@@ -2,14 +2,18 @@
 sudo apt update
 sudo apt install 
 git 
-curl
-zsh
-    * oh my zsh
+curl 
+zsh 
+- oh my zsh
 tmux
 firefox 
 
 - vim 8
 - vim bootstrap
+
+
+R
+python
 
 hyper.js + hpm-cli 
 Font: FiraCode + ligatures
