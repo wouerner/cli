@@ -20,3 +20,14 @@ let &t_EI = "\<Esc>]50;CursorShape=0\x7"
 set list listchars=tab:❘-,trail:·,extends:»,precedes:«,nbsp:×,eol:¬
 
 let mapleader = ","
+
+"ALE
+"let b:ale_fixers = ['prettier', 'eslint']
+let g:ale_fixers = {
+            \   '*': ['remove_trailing_lines', 'trim_whitespace'],
+            \   'javascript': ['eslint'],
+            \   'vue': ['eslint'],
+            \}
+
+" kitty
+let &t_ut=''
