@@ -6,6 +6,9 @@ sudo apt install
 - zsh 
 - oh my zsh 
 - tmux 
+- Font: FiraCode + ligatures 
+- vim devicons 
+
 
 ## Browser
 - firefox  
@@ -29,8 +32,6 @@ blueman
 R 
 python 
 hyper.js + hpm-cli 
-Font: FiraCode + ligatures 
-vim devicons 
 i3-wm 
 nextcloud 
 steam 
