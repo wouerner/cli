@@ -1,43 +1,49 @@
 ## Ubuntu 
-sudo apt update
+sudo apt update 
 sudo apt install 
-git 
-curl 
-zsh 
-- oh my zsh
-tmux
-firefox 
 
-- vim 8
-- vim bootstrap
+## Terminal
+- zsh 
+- oh my zsh 
+- tmux 
 
-blueman
+## Browser
+- firefox  
+- chrome (snap)
 
+## vim 
+- vim 8 
+- vim bootstrap https://vim-bootstrap.com/
 
+## Docker 
+- docker 
+- docker-compose 
 
-R
-python
+## Comunicação
+- Telegram (snap)
+- Discord (snap)
 
+git  
+curl  
+blueman 
+R 
+python 
 hyper.js + hpm-cli 
-Font: FiraCode + ligatures
-vim devicons
-i3-wm
-docker
-	docker-compose
-nextcloud
-steam
-modulo banco caixa e BB
-telegram
-dbeaver
-mysql-workbench
-pavucontrol
-php + code sniffer
+Font: FiraCode + ligatures 
+vim devicons 
+i3-wm 
+nextcloud 
+steam 
+modulo banco caixa e BB 
 
-retropie
-htop
-hugo
+  
+dbeaver  
+mysql-workbench  
+pavucontrol  
+php + code sniffer  
+htop  
+hugo  
 
 ## Tmux
 https://github.com/sei40kr/tmux-airline-dracula  
 https://github.com/tmux-plugins/tpm
-
