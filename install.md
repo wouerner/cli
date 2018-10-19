@@ -11,6 +11,9 @@ firefox
 - vim 8
 - vim bootstrap
 
+blueman
+
+
 
 R
 python
