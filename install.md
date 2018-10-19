@@ -6,6 +6,8 @@ sudo apt install
 - zsh 
 - oh my zsh 
 - tmux 
+  * https://github.com/sei40kr/tmux-airline-dracula  
+  * https://github.com/tmux-plugins/tpm
 - Font: FiraCode + ligatures 
 - vim devicons 
 
@@ -46,5 +48,4 @@ htop
 hugo  
 
 ## Tmux
-https://github.com/sei40kr/tmux-airline-dracula  
-https://github.com/tmux-plugins/tpm
+
