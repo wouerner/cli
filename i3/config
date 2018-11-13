@@ -167,6 +167,6 @@ bar {
 exec_always nm-applet
 
 #touchpad config!
-exec --no-startup-id xinput set-prop "DELL0782:00 06CB:7E92 Touchpad" 311 1
+exec --no-startup-id xinput set-prop "DELL0782:00 06CB:7E92 Touchpad" 281 1
 
 exec --no-startup-id compton -f
