@@ -21,6 +21,8 @@ sudo add-apt-repository ppa:ubuntu-mozilla-daily/firefox-aurora
 sudo apt-get update  
 sudo apt-get install firefox  
 
+Install VimiumVimium
+
 # xz uncompress files.
 unxz my_archive.tar.xz
 
