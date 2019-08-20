@@ -98,3 +98,7 @@ sensors
 
 pavucontrol
 nm-applet # network
+
+
+
+termdown   
