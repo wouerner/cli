@@ -11,7 +11,6 @@ sudo apt install
 - Font: FiraCode + ligatures 
 - vim devicons 
 
-
 ## Browser
 - firefox  
 - chrome (snap)
@@ -38,7 +37,6 @@ i3-wm
 nextcloud 
 steam 
 modulo banco caixa e BB 
-
   
 dbeaver  
 mysql-workbench  
@@ -46,6 +44,22 @@ pavucontrol
 php + code sniffer  
 htop  
 hugo  
+
+hubstaff
+konsole
+allacraty
+i3wmthemer
+
+backup das chavess
+franz  
+https://activitywatch.net/
+nextcloud
+kazam
+peek
+skype
+virtualbox
+
+
 
 ## Tmux
 
