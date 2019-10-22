@@ -103,4 +103,11 @@ nm-applet # network
 
 termdown   
 
+### Screenkey
+```sh
+XMODIFIERS= 
+GTK_IM_MODULE=
+QT_IM_MODULE=
+```
+
 https://gitlab.com/wavexx/screenkey#installation-and-basic-usage
