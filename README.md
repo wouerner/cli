@@ -102,3 +102,5 @@ nm-applet # network
 
 
 termdown   
+
+https://gitlab.com/wavexx/screenkey#installation-and-basic-usage
